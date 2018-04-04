@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ASUS%20X/Documents/SistemaPedidos(novo)/web/index.jsp</file>
+            <file>file:/C:/Users/ASUS%20X/Documents/SistemaPedidos(novo)/web/form_inserir_pedido.jsp</file>
+            <file>file:/C:/Users/ASUS%20X/Documents/SistemaPedidos(novo)/web/form_inserir_produto.jsp</file>
+            <file>file:/C:/Users/ASUS%20X/Documents/SistemaPedidos(novo)/src/java/modelo/PedidoDAO.java</file>
+            <file>file:/C:/Users/ASUS%20X/Documents/SistemaPedidos(novo)/web/listar_cliente.jsp</file>
+            <file>file:/C:/Users/ASUS%20X/Documents/SistemaPedidos(novo)/src/java/modelo/Produto.java</file>
+            <file>file:/C:/Users/ASUS%20X/Documents/SistemaPedidos(novo)/src/java/controle/ValidaLogin.java</file>
+            <file>file:/C:/Users/ASUS%20X/Documents/SistemaPedidos(novo)/src/java/controle/GerenciarPedido.java</file>
+            <file>file:/C:/Users/ASUS%20X/Documents/SistemaPedidos(novo)/web/login.jsp</file>
+            <file>file:/C:/Users/ASUS%20X/Documents/SistemaPedidos(novo)/src/java/controle/GerenciarItensCarrinho.java</file>
+            <file>file:/C:/Users/ASUS%20X/Documents/SistemaPedidos(novo)/src/java/modelo/ProdutoDAO.java</file>
+            <file>file:/C:/Users/ASUS%20X/Documents/SistemaPedidos(novo)/src/java/controle/GerenciarFuncionario.java</file>
+            <file>file:/C:/Users/ASUS%20X/Documents/SistemaPedidos(novo)/src/java/modelo/PedidoProduto.java</file>
+        </group>
+    </open-files>
+</project-private>
